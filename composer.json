@@ -5,7 +5,7 @@
   "license": "GPL-2.0-or-later",
   "require": {
     "typo3/cms-core": "^12.4.0",
-    "netwerker/deployer": "^12",
+    "netwerk/deployer": "^12",
     "helhum/dotenv-connector": "^3.0",
     "helhum/typo3-console": "^8.0",
     "typo3-console/composer-auto-commands": "^1.1",
