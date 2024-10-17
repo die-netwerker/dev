@@ -1,11 +1,11 @@
 {
   "name": "netwerk/dev",
-  "description": "netwerker Dev-Package for TYPO3 12.4",
+  "description": "netwerker Dev-Package for TYPO3 13.4",
   "type": "library",
   "license": "GPL-2.0-or-later",
   "require": {
-    "typo3/cms-core": "^12.4.0",
-    "netwerk/deployer": "^12",
+    "typo3/cms-core": "^13.4.0",
+    "netwerk/deployer": "^13",
     "helhum/dotenv-connector": "^3.0",
     "helhum/typo3-console": "^8.0",
     "typo3-console/composer-auto-commands": "^1.1",
