@@ -6,6 +6,8 @@
   "require": {
     "typo3/cms-core": "^13.4",
     "netwerk/deployer": "^13.0",
-    "helhum/dotenv-connector": "^3.1"
+    "helhum/dotenv-connector": "^3.1",
+    "helhum/typo3-console": "^8.2",
+    "typo3-console/composer-auto-commands": "^1.1"
   }
 }
